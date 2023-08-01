@@ -14,3 +14,4 @@ man <command>
 |
 echo "something"
 echo "nothing"
+echo "hello"
