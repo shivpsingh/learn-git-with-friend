@@ -12,4 +12,5 @@ man <command>
 &
 &&
 |
-echo
+echo "something"
+echo "nothing"
