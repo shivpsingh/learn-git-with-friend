@@ -12,4 +12,4 @@ man <command>
 &
 &&
 |
-echo
+echo "hello"
